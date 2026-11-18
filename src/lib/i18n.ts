@@ -111,7 +111,7 @@ export const translations = {
           location: "Worldwide",
           sector: "Digital Engineering",
           description:
-            "Worldwide digital engineering partner for custom software development. Delivers secure and scalable web, mobile, cloud, and AI solutions, complemented by digital marketing (HABB DIGI), AI automation (HABB AI), and access control systems (HABBGate) for clients across multiple continents.",
+            "Your worldwide digital engineering partner, designing and building secure, scalable products for web, mobile, cloud and AI. With real offices in Sri Lanka and Switzerland, one accountable team takes projects from strategy to support, and we also build our own SaaS products. Services include digital marketing (HABB DIGI), AI automation (HABB AI) and access control (HABBGate).",
           tags: ["Software Development", "AI Automation", "Digital Engineering"],
           website: "https://habbglobal.com",
         },
@@ -253,7 +253,7 @@ export const translations = {
           location: "Weltweit",
           sector: "Digital Engineering",
           description:
-            "Weltweiter Digital-Engineering-Partner für massgeschneiderte Softwareentwicklung. Liefert sichere und skalierbare Web-, Mobile-, Cloud- und KI-Lösungen, ergänzt durch digitales Marketing (HABB DIGI), KI-Automatisierung (HABB AI) und Zugangskontrollsysteme (HABBGate) für Kunden auf mehreren Kontinenten.",
+            "Ihr weltweiter Digital-Engineering-Partner für den Entwurf und Bau sicherer, skalierbarer Produkte für Web, Mobile, Cloud und KI. Mit eigenen Büros in Sri Lanka und der Schweiz begleitet ein verantwortliches Team Projekte von der Strategie bis zum Support und entwickelt auch eigene SaaS-Produkte. Leistungen umfassen digitales Marketing (HABB DIGI), KI-Automatisierung (HABB AI) und Zugangskontrolle (HABBGate).",
           tags: ["Softwareentwicklung", "KI-Automatisierung", "Digital Engineering"],
           website: "https://habbglobal.com",
         },
@@ -395,7 +395,7 @@ export const translations = {
           location: "உலகளாவிய",
           sector: "டிஜிட்டல் பொறியியல்",
           description:
-            "தனிப்பயன் மென்பொருள் மேம்பாட்டுக்கான உலகளாவிய டிஜிட்டல் பொறியியல் கூட்டாளி. பல கண்டங்களில் உள்ள வாடிக்கையாளர்களுக்கு பாதுகாப்பான மற்றும் அளவிடக்கூடிய இணையம், மொபைல், கிளவுட் மற்றும் AI தீர்வுகளை வழங்குகிறது, டிஜிட்டல் மார்க்கெட்டிங் (HABB DIGI), AI ஆட்டோமேஷன் (HABB AI) மற்றும் அணுகல் கட்டுப்பாட்டு அமைப்புகள் (HABBGate) ஆகியவற்றுடன்.",
+            "உங்கள் உலகளாவிய டிஜிட்டல் பொறியியல் கூட்டாளி; பாதுகாப்பான, அளவிடக்கூடிய இணையம், மொபைல், கிளவுட் மற்றும் AI தயாரிப்புகளை வடிவமைத்து உருவாக்குகிறது. இலங்கை மற்றும் சுவிட்சர்லாந்தில் உண்மையான அலுவலகங்களுடன், ஒரே பொறுப்புள்ள குழு உத்தியிலிருந்து ஆதரவு வரை திட்டங்களை கையாள்கிறது; சொந்த SaaS தயாரிப்புகளையும் உருவாக்குகிறது. சேவைகள்: டிஜிட்டல் மார்க்கெட்டிங் (HABB DIGI), AI ஆட்டோமேஷன் (HABB AI), அணுகல் கட்டுப்பாடு (HABBGate).",
           tags: ["மென்பொருள் மேம்பாடு", "AI ஆட்டோமேஷன்", "டிஜிட்டல் பொறியியல்"],
           website: "https://habbglobal.com",
         },
@@ -537,7 +537,7 @@ export const translations = {
           location: "ලොව පුරා",
           sector: "ඩිජිටල් ඉංජිනේරු විද්‍යාව",
           description:
-            "අභිරුචි මෘදුකාංග සංවර්ධනය සඳහා ලොව පුරා ඩිජිටල් ඉංජිනේරු හවුල්කරුවෙකි. මහද්වීපයන් කිහිපයක ගනුදෙනුකරුවන් සඳහා ආරක්ෂිත සහ පරිමාණය කළ හැකි වෙබ්, ජංගම, ක්ලවුඩ් සහ AI විසඳුම් ලබා දෙයි. ඩිජිටල් අලෙවිකරණය (HABB DIGI), AI ස්වයංක්‍රීයකරණය (HABB AI) සහ ප්‍රවේශ පාලන පද්ධති (HABBGate) ද එයට ඇතුළත් වේ.",
+            "ආරක්ෂිත, පරිමාණය කළ හැකි වෙබ්, ජංගම, ක්ලවුඩ් සහ AI නිෂ්පාදන සැලසුම් කර ගොඩනඟන ඔබේ ලොව පුරා ඩිජිටල් ඉංජිනේරු හවුල්කරුවා. ශ්‍රී ලංකාවේ සහ ස්විට්සර්ලන්තයේ සැබෑ කාර්යාල සහිතව, එක් වගකීම් සහගත කණ්ඩායමක් ව්‍යාපෘති උපායමාර්ගයේ සිට සහාය දක්වා කටයුතු කරන අතර, තමන්ගේම SaaS නිෂ්පාදන ද ගොඩනඟයි. සේවා: ඩිජිටල් අලෙවිකරණය (HABB DIGI), AI ස්වයංක්‍රීයකරණය (HABB AI) සහ ප්‍රවේශ පාලනය (HABBGate).",
           tags: ["මෘදුකාංග සංවර්ධනය", "AI ස්වයංක්‍රීයකරණය", "ඩිජිටල් ඉංජිනේරු විද්‍යාව"],
           website: "https://habbglobal.com",
         },
@@ -679,7 +679,7 @@ export const translations = {
           location: "Mondial",
           sector: "Ingénierie numérique",
           description:
-            "Partenaire mondial en ingénierie numérique pour le développement de logiciels sur mesure. Fournit des solutions web, mobiles, cloud et IA sécurisées et évolutives, complétées par le marketing digital (HABB DIGI), l'automatisation IA (HABB AI) et les systèmes de contrôle d'accès (HABBGate) pour des clients sur plusieurs continents.",
+            "Votre partenaire mondial en ingénierie numérique, qui conçoit et développe des produits web, mobiles, cloud et IA sécurisés et évolutifs. Avec de véritables bureaux au Sri Lanka et en Suisse, une équipe unique et responsable accompagne les projets de la stratégie au support, et nous développons aussi nos propres produits SaaS. Services : marketing digital (HABB DIGI), automatisation IA (HABB AI) et contrôle d'accès (HABBGate).",
           tags: ["Développement logiciel", "Automatisation IA", "Ingénierie numérique"],
           website: "https://habbglobal.com",
         },
@@ -821,7 +821,7 @@ export const translations = {
           location: "عالمي",
           sector: "الهندسة الرقمية",
           description:
-            "شريك هندسة رقمية عالمي لتطوير البرمجيات المخصصة. يقدم حلول الويب والجوال والسحابة والذكاء الاصطناعي الآمنة والقابلة للتوسع، مع التسويق الرقمي (HABB DIGI) وأتمتة الذكاء الاصطناعي (HABB AI) وأنظمة التحكم في الوصول (HABBGate) لعملاء في عدة قارات.",
+            "شريككم العالمي في الهندسة الرقمية، نصمم ونبني منتجات آمنة وقابلة للتوسع للويب والجوال والسحابة والذكاء الاصطناعي. مع مكاتب حقيقية في سريلانكا وسويسرا، يتولى فريق واحد ومسؤول المشاريع من الاستراتيجية حتى الدعم، ونطور كذلك منتجات SaaS الخاصة بنا. الخدمات: التسويق الرقمي (HABB DIGI)، وأتمتة الذكاء الاصطناعي (HABB AI)، والتحكم في الوصول (HABBGate).",
           tags: ["تطوير البرمجيات", "أتمتة الذكاء الاصطناعي", "الهندسة الرقمية"],
           website: "https://habbglobal.com",
         },
