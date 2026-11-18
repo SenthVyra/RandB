@@ -91,8 +91,8 @@ export default function Contact({ locale }: ContactProps) {
     {
       icon: Mail,
       label: t.contact.email,
-      value: "info@rbrajhholding.ch",
-      href: "mailto:info@rbrajhholding.ch",
+      value: "info@randbholdings.com",
+      href: "mailto:info@randbholdings.com",
     },
     {
       icon: Phone,

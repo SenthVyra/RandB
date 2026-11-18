@@ -139,10 +139,10 @@ export default function Footer({ locale }: FooterProps) {
               <p>Thirunelvely, Jaffna, Sri Lanka</p>
               <p className="pt-1">
                 <a
-                  href="mailto:info@rbrajhholding.ch"
+                  href="mailto:info@randbholdings.com"
                   className="hover:text-white transition-colors"
                 >
-                  info@rbrajhholding.ch
+                  info@randbholdings.com
                 </a>
               </p>
               <p>
