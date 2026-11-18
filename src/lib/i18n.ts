@@ -122,7 +122,7 @@ export const translations = {
       subtitle: "The people behind our success.",
     },
     about: {
-      title: "About R&B Holdings",
+      title: "About R&B Rajh Holding AG",
       subtitle: "A Holding Company with Vision and Strength",
       description:
         "R&B Rajh Holding AG was founded on March 12, 2019 in Burgdorf, Switzerland. It is a dynamic holding company with a registered capital of CHF 100,000 and serves as the Swiss holding company of R&B Holdings. Under the leadership of Suyarajh Kanagaratnam as board member and legal representative, the company actively builds a portfolio of industrial, service, and hospitality businesses.",
@@ -264,7 +264,7 @@ export const translations = {
       subtitle: "Leitung der Beteiligungsgesellschaften und strategische Partner",
     },
     about: {
-      title: "Über R&B Holdings",
+      title: "Über R&B Rajh Holding AG",
       subtitle: "Eine Holdinggesellschaft mit Vision und Stärke",
       description:
         "Die R&B Rajh Holding AG wurde am 12. März 2019 in Burgdorf, Schweiz, gegründet. Sie ist eine dynamische Holdinggesellschaft mit einem eingetragenen Kapital von 100.000 CHF und die Schweizer Holdinggesellschaft der R&B Holdings. Unter der Führung von Suyarajh Kanagaratnam als Vorstandsmitglied und gesetzlichem Vertreter baut das Unternehmen aktiv ein Portfolio aus Industrie-, Dienstleistungs- und Gastgewerbeunternehmen auf.",
@@ -406,7 +406,7 @@ export const translations = {
       subtitle: "எங்கள் வெற்றியின் பின்னால் உள்ள மனிதர்கள்.",
     },
     about: {
-      title: "R&B Holdings பற்றி",
+      title: "R&B Rajh Holding AG பற்றி",
       subtitle: "தொலைநோக்கும் வலிமையும் கொண்ட ஒரு ஹோல்டிங் நிறுவனம்",
       description:
         "2019 மார்ச் 12 அன்று சுவிட்சர்லாந்தின் பர்க்டோர்ஃபில் நிறுவப்பட்ட R&B Rajh Holding AG, CHF 100,000 பதிவு செய்யப்பட்ட மூலதனத்துடன் கூடிய ஒரு இயக்கமான ஹோல்டிங் நிறுவனம்; இது R&B Holdings-இன் சுவிஸ் ஹோல்டிங் நிறுவனம். குழு உறுப்பினரும் சட்டப் பிரதிநிதியுமான Suyarajh Kanagaratnam தலைமையில், தொழில்துறை, சேவை மற்றும் விருந்தோம்பல் வணிகங்களின் போர்ட்ஃபோலியோவை நிறுவனம் தீவிரமாக உருவாக்கி வருகிறது.",
@@ -548,7 +548,7 @@ export const translations = {
       subtitle: "අපගේ සාර්ථකත්වය පිටුපස සිටින පුද්ගලයෝ.",
     },
     about: {
-      title: "R&B Holdings ගැන",
+      title: "R&B Rajh Holding AG ගැන",
       subtitle: "දැක්මෙන් හා ශක්තියෙන් යුත් ආයෝජන සමාගමක්",
       description:
         "2019 මාර්තු 12 වන දින ස්විට්සර්ලන්තයේ බර්ක්ඩෝෆ් හි ආරම්භ කළ R&B Rajh Holding AG, ලියාපදිංචි කළ ප්‍රාග්ධනය CHF 100,000 වන ගතික ආයෝජන සමාගමක් වන අතර, R&B Holdings හි ස්විස් මව් සමාගම වේ. මණ්ඩල සාමාජික සහ නීත්‍යානුකූල නියෝජිත Suyarajh Kanagaratnam ගේ මෙහෙයවීම යටතේ, කාර්මික, සේවා සහ සත්කාරක ව්‍යාපාරවල ව්‍යාපෘති සංග්‍රහයක් සක්‍රීයව ගොඩනඟමින් සිටී.",
@@ -690,7 +690,7 @@ export const translations = {
       subtitle: "Les personnes derrière notre réussite.",
     },
     about: {
-      title: "À propos de R&B Holdings",
+      title: "À propos de R&B Rajh Holding AG",
       subtitle: "Une société holding avec vision et force",
       description:
         "R&B Rajh Holding AG a été fondée le 12 mars 2019 à Burgdorf, en Suisse. C'est une société holding dynamique dont le capital social est de CHF 100 000, et la holding suisse de R&B Holdings. Sous la direction de Suyarajh Kanagaratnam, membre du conseil d'administration et représentant légal, la société développe activement un portefeuille d'entreprises industrielles, de services et d'hôtellerie.",
@@ -832,7 +832,7 @@ export const translations = {
       subtitle: "الأشخاص وراء نجاحنا.",
     },
     about: {
-      title: "عن R&B Holdings",
+      title: "عن R&B Rajh Holding AG",
       subtitle: "شركة قابضة برؤية وقوة",
       description:
         "تأسست R&B Rajh Holding AG في 12 مارس 2019 في بورغدورف، سويسرا، وهي شركة قابضة ديناميكية برأس مال مسجل قدره 100,000 فرنك سويسري، وهي الشركة القابضة السويسرية لمجموعة R&B Holdings. تحت قيادة Suyarajh Kanagaratnam، عضو مجلس الإدارة والممثل القانوني، تبني الشركة بنشاط محفظة من الأعمال الصناعية والخدمية والضيافة.",

@@ -3,7 +3,7 @@ import "./globals.css";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title: "R&B Holdings – Strategic Investments & Industrial Excellence",
+  title: "R&B Rajh Holding AG – Strategic Investments & Industrial Excellence",
   description:
     "R&B Holdings is a worldwide holding group with strategic participations in industry, surface treatment, hospitality, agriculture and digital engineering. Its Swiss holding company is registered in Burgdorf as R&B Rajh Holding AG.",
   keywords: [
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     apple: "/logos/RB_Holdings_Logo.webp",
   },
   openGraph: {
-    title: "R&B Holdings",
+    title: "R&B Rajh Holding AG",
     description: "Strategic Investments. Industrial Excellence.",
     type: "website",
     url: "https://randbholdings.com",

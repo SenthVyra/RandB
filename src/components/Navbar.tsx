@@ -54,7 +54,7 @@ export default function Navbar({ locale, onLocaleChange }: NavbarProps) {
               className="font-bold text-[15px] text-[var(--navy)] leading-tight tracking-tight"
               style={{ fontFamily: "Outfit, sans-serif" }}
             >
-              R&B Holdings
+              R&B Rajh Holding AG
             </span>
             <span className="text-[10px] font-medium text-[var(--text-muted)] tracking-[0.08em] uppercase">
               Worldwide
