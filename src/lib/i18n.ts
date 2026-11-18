@@ -86,7 +86,7 @@ export const translations = {
           description:
             "Core operating company of the group with close collaboration between Leuta Korrosionsschutz AG and Tschannen Spritzwerk – uniting processes from start to finish.",
           tags: ["Industrial Services", "Partnership", "Quality"],
-          website: "https://rbrajhholdings.ch",
+          website: "https://rbrajhholding.ch",
         },
         guesthouse: {
           name: "R&B Guest House pvt. Ltd.",
@@ -228,7 +228,7 @@ export const translations = {
           description:
             "Operatives Kernunternehmen der Gruppe mit engem Zusammenspiel zwischen Leuta Korrosionsschutz AG und Tschannen Spritzwerk ag – vereint Prozesse von Anfang bis Ende.",
           tags: ["Industriedienste", "Partnerschaft", "Qualität"],
-          website: "https://rbrajhholdings.ch",
+          website: "https://rbrajhholding.ch",
         },
         guesthouse: {
           name: "R&B Guest House pvt. Ltd.",
@@ -370,7 +370,7 @@ export const translations = {
           description:
             "Leuta Korrosionsschutz AG மற்றும் Tschannen Spritzwerk ஆகியவற்றுக்கு இடையே நெருங்கிய ஒத்துழைப்புடன் கூடிய குழுவின் முக்கிய செயல்பாட்டு நிறுவனம் – தொடக்கம் முதல் முடிவு வரை செயல்முறைகளை ஒருங்கிணைக்கிறது.",
           tags: ["தொழில்துறை சேவைகள்", "கூட்டாண்மை", "தரம்"],
-          website: "https://rbrajhholdings.ch",
+          website: "https://rbrajhholding.ch",
         },
         guesthouse: {
           name: "R&B Guest House pvt. Ltd.",
@@ -512,7 +512,7 @@ export const translations = {
           description:
             "Leuta Korrosionsschutz AG සහ Tschannen Spritzwerk අතර සමීප සහයෝගීතාවයෙන් යුත් කණ්ඩායමේ මූලික මෙහෙයුම් සමාගම – ආරම්භයේ සිට අවසානය දක්වා ක්‍රියාවලීන් එක්සත් කරයි.",
           tags: ["කාර්මික සේවා", "හවුල්කාරිත්වය", "ගුණාත්මකභාවය"],
-          website: "https://rbrajhholdings.ch",
+          website: "https://rbrajhholding.ch",
         },
         guesthouse: {
           name: "R&B Guest House pvt. Ltd.",
@@ -654,7 +654,7 @@ export const translations = {
           description:
             "Entreprise opérationnelle centrale du groupe, en étroite collaboration avec Leuta Korrosionsschutz AG et Tschannen Spritzwerk – réunit les processus de bout en bout.",
           tags: ["Services industriels", "Partenariat", "Qualité"],
-          website: "https://rbrajhholdings.ch",
+          website: "https://rbrajhholding.ch",
         },
         guesthouse: {
           name: "R&B Guest House pvt. Ltd.",
@@ -796,7 +796,7 @@ export const translations = {
           description:
             "الشركة التشغيلية الرئيسية للمجموعة، بتعاون وثيق مع Leuta Korrosionsschutz AG وTschannen Spritzwerk – توحد العمليات من البداية إلى النهاية.",
           tags: ["الخدمات الصناعية", "الشراكة", "الجودة"],
-          website: "https://rbrajhholdings.ch",
+          website: "https://rbrajhholding.ch",
         },
         guesthouse: {
           name: "R&B Guest House pvt. Ltd.",
