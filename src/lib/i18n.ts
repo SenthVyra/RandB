@@ -104,7 +104,7 @@ export const translations = {
           description:
             "Organic farming operation in Jaffna, Sri Lanka. Specializing in marigold cultivation and vegetable production, embracing local cultivation and sustainable practices.",
           tags: ["Organic Farming", "Jaffna", "Sustainability"],
-          website: "#",
+          website: "https://rbbio.ch",
         },
         habbGlobal: {
           name: "HABB Global",
@@ -246,7 +246,7 @@ export const translations = {
           description:
             "Bio-Landwirtschaftsbetrieb in Jaffna, Sri Lanka. Spezialisiert auf Ringelblumenanbau und Gemüseproduktion, verbunden mit lokalem Anbau und nachhaltiger Landwirtschaft.",
           tags: ["Bio-Farming", "Jaffna", "Nachhaltigkeit"],
-          website: "#",
+          website: "https://rbbio.ch",
         },
         habbGlobal: {
           name: "HABB Global",
@@ -388,7 +388,7 @@ export const translations = {
           description:
             "யாழ்ப்பாணம், இலங்கையில் உள்ள இயற்கை வேளாண் பண்ணை. சாமந்தி சாகுபடி மற்றும் காய்கறி உற்பத்தியில் நிபுணத்துவம், உள்ளூர் சாகுபடி மற்றும் நிலையான விவசாய முறைகளைப் பின்பற்றுகிறது.",
           tags: ["இயற்கை வேளாண்மை", "யாழ்ப்பாணம்", "நிலைத்தன்மை"],
-          website: "#",
+          website: "https://rbbio.ch",
         },
         habbGlobal: {
           name: "HABB Global",
@@ -530,7 +530,7 @@ export const translations = {
           description:
             "යාපනය, ශ්‍රී ලංකාවේ කාබනික ගොවිපල මෙහෙයුමකි. ගෙන්ඩි (මැරිගෝල්ඩ්) වගාව සහ එළවළු නිෂ්පාදනය පිළිබඳ විශේෂඥ වන අතර දේශීය වගාව සහ තිරසාර කෘෂිකාර්මික ක්‍රම අනුගමනය කරයි.",
           tags: ["කාබනික ගොවිපල", "යාපනය", "තිරසාරභාවය"],
-          website: "#",
+          website: "https://rbbio.ch",
         },
         habbGlobal: {
           name: "HABB Global",
@@ -672,7 +672,7 @@ export const translations = {
           description:
             "Exploitation agricole biologique à Jaffna, Sri Lanka. Spécialisée dans la culture du souci et la production de légumes, dans le respect des pratiques locales et durables.",
           tags: ["Agriculture biologique", "Jaffna", "Durabilité"],
-          website: "#",
+          website: "https://rbbio.ch",
         },
         habbGlobal: {
           name: "HABB Global",
@@ -814,7 +814,7 @@ export const translations = {
           description:
             "مزرعة عضوية في يافنا، سريلانكا. متخصصة في زراعة الأقحوان وإنتاج الخضروات، مع تبني الزراعة المحلية والممارسات المستدامة.",
           tags: ["الزراعة العضوية", "يافنا", "الاستدامة"],
-          website: "#",
+          website: "https://rbbio.ch",
         },
         habbGlobal: {
           name: "HABB Global",
