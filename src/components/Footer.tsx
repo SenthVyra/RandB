@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import Image from "next/image";
 import { translations, Locale } from "@/lib/i18n";
@@ -39,7 +39,7 @@ export default function Footer({ locale }: FooterProps) {
           <div className="lg:col-span-1">
             <div className="flex items-center gap-3 mb-5">
               <Image
-                src="/logos/RAndB_Rajh_Holding_AG_Logo.png"
+                src="/logos/RB_Holdings_Logo.webp"
                 alt="R&B Rajh Holding AG"
                 width={36}
                 height={36}

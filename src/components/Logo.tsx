@@ -1,4 +1,4 @@
-"use client";
+﻿"use client";
 
 import Image from "next/image";
 
@@ -14,7 +14,7 @@ export default function Logo({ size = 40, className = "" }: LogoProps) {
       style={{ width: size, height: size }}
     >
       <Image
-        src="/logos/RAndB_Rajh_Holding_AG_Logo.png"
+        src="/logos/RB_Holdings_Logo.webp"
         alt="R&B Rajh Holding AG Logo"
         fill
         className="object-contain"

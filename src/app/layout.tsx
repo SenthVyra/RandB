@@ -1,12 +1,12 @@
-import type { Metadata } from "next";
+﻿import type { Metadata } from "next";
 import "./globals.css";
 import Script from "next/script";
 
 export const metadata: Metadata = {
   title:
-    "R&B Rajh Holding AG – Strategische Investitionen & Industrielle Exzellenz",
+    "R&B Rajh Holding AG â€“ Strategische Investitionen & Industrielle Exzellenz",
   description:
-    "R&B Rajh Holding AG ist eine Schweizer Holdinggesellschaft mit Sitz in Burgdorf. Mit strategischen Beteiligungen in Industrie, Oberflächenbehandlung, Gastgewerbe und Landwirtschaft.",
+    "R&B Rajh Holding AG ist eine Schweizer Holdinggesellschaft mit Sitz in Burgdorf. Mit strategischen Beteiligungen in Industrie, OberflÃ¤chenbehandlung, Gastgewerbe und Landwirtschaft.",
   keywords: [
     "R&B Rajh Holding AG",
     "Burgdorf",
@@ -17,9 +17,9 @@ export const metadata: Metadata = {
   ],
   metadataBase: new URL("https://rbrajhholding.ch"),
   icons: {
-    icon: "/logos/RAndB_Rajh_Holding_AG_Logo.png",
-    shortcut: "/logos/RAndB_Rajh_Holding_AG_Logo.png",
-    apple: "/logos/RAndB_Rajh_Holding_AG_Logo.png",
+    icon: "/logos/RB_Holdings_Logo.webp",
+    shortcut: "/logos/RB_Holdings_Logo.webp",
+    apple: "/logos/RB_Holdings_Logo.webp",
   },
   openGraph: {
     title: "R&B Rajh Holding AG",
