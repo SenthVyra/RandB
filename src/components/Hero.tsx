@@ -61,7 +61,7 @@ export default function Hero({ locale }: HeroProps) {
               >
                 <span className="text-[var(--navy)] break-words">R&B Holdings</span>
                 <br />
-                <span className="gradient-heading break-words">Holding AG</span>
+                <span className="gradient-heading break-words">Worldwide</span>
               </h1>
             </Reveal>
 
@@ -150,7 +150,7 @@ export default function Hero({ locale }: HeroProps) {
                       </div>
                       <div className="h-0.5 w-12 mx-auto mt-2 mb-2 bg-[var(--gold)] rounded-full" />
                       <div className="text-sm font-semibold text-[var(--text-muted)] tracking-widest uppercase">
-                        Holding AG
+                        Worldwide
                       </div>
                     </div>
                   </div>

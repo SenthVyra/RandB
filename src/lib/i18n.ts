@@ -36,7 +36,7 @@ export const translations = {
     hero: {
       tagline: "Strategic Investments. Industrial Excellence.",
       description:
-        "R&B Holdings is a worldwide holding group focused on strategic participations, industrial services, and international partnerships. Its Swiss holding company, registered in Burgdorf as R&B Rajh Holding AG, anchors the group's European operations.",
+        "R&B Holdings is a worldwide holding group, based in Switzerland and now expanding internationally. Its Swiss holding company, R&B Rajh Holding AG in Burgdorf, anchors the group, with strategic participations, industrial services and international partnerships.",
       cta: "Explore Portfolio",
       cta2: "Get in Touch",
       founded: "Founded",
@@ -182,7 +182,7 @@ export const translations = {
     hero: {
       tagline: "Strategische Investitionen. Industrielle Exzellenz.",
       description:
-        "R&B Holdings ist eine weltweit tätige Holdinggruppe mit Fokus auf strategische Beteiligungen, Industriedienstleistungen und internationale Partnerschaften. Die in Burgdorf eingetragene Schweizer Holdinggesellschaft R&B Rajh Holding AG bildet das europäische Fundament der Gruppe.",
+        "R&B Holdings ist eine weltweit tätige Holdinggruppe mit Sitz in der Schweiz, die nun international expandiert. Die Schweizer Holdinggesellschaft R&B Rajh Holding AG in Burgdorf bildet das Fundament der Gruppe und steht für strategische Beteiligungen, Industriedienstleistungen und internationale Partnerschaften.",
       cta: "Portfolio entdecken",
       cta2: "Kontakt aufnehmen",
       founded: "Gegründet",
@@ -324,7 +324,7 @@ export const translations = {
     hero: {
       tagline: "மூலோபாய முதலீடுகள். தொழில்துறை சிறப்பு.",
       description:
-        "R&B Holdings என்பது மூலோபாய பங்கேற்புகள், தொழில்துறை சேவைகள் மற்றும் சர்வதேச கூட்டாண்மைகளில் கவனம் செலுத்தும் உலகளாவிய ஹோல்டிங் குழு. பர்க்டோர்ஃபில் R&B Rajh Holding AG என பதிவு செய்யப்பட்ட அதன் சுவிஸ் ஹோல்டிங் நிறுவனம் ஐரோப்பிய செயல்பாடுகளின் அடித்தளமாக உள்ளது.",
+        "R&B Holdings என்பது சுவிட்சர்லாந்தை அடிப்படையாகக் கொண்டு, இப்போது சர்வதேச அளவில் விரிவடைந்து வரும் உலகளாவிய ஹோல்டிங் குழு. பர்க்டோர்ஃபில் உள்ள அதன் சுவிஸ் ஹோல்டிங் நிறுவனம் R&B Rajh Holding AG குழுவின் அடித்தளமாக உள்ளது; மூலோபாய பங்கேற்புகள், தொழில்துறை சேவைகள் மற்றும் சர்வதேச கூட்டாண்மைகளில் கவனம் செலுத்துகிறது.",
       cta: "போர்ட்ஃபோலியோவை ஆராயுங்கள்",
       cta2: "தொடர்பு கொள்ளுங்கள்",
       founded: "நிறுவப்பட்டது",
@@ -466,7 +466,7 @@ export const translations = {
     hero: {
       tagline: "උපායශීලී ආයෝජන. කාර්මික විශිෂ්ටත්වය.",
       description:
-        "R&B Holdings යනු උපායශීලී ආයෝජන, කාර්මික සේවා සහ ජාත්‍යන්තර හවුල්කාරිත්වය කෙරෙහි අවධානය යොමු කරන ලොව පුරා ආයෝජන සමූහයකි. බර්ක්ඩෝෆ් හි R&B Rajh Holding AG ලෙස ලියාපදිංචි කළ එහි ස්විස් සමාගම සමූහයේ යුරෝපීය මෙහෙයුම්වල මූලය වේ.",
+        "R&B Holdings යනු ස්විට්සර්ලන්තය පදනම් කරගත් හා දැන් ජාත්‍යන්තරව ව්‍යාප්ත වන ලොව පුරා ආයෝජන සමූහයකි. බර්ක්ඩෝෆ් හි ඇති එහි ස්විස් මව් සමාගම වන R&B Rajh Holding AG සමූහයේ මූලය වන අතර, උපායශීලී ආයෝජන, කාර්මික සේවා සහ ජාත්‍යන්තර හවුල්කාරිත්වය කෙරෙහි අවධානය යොමු කරයි.",
       cta: "ව්‍යාපෘති සොයන්න",
       cta2: "අප හා සම්බන්ධ වන්න",
       founded: "ආරම්භ වූ වර්ෂය",
@@ -608,7 +608,7 @@ export const translations = {
     hero: {
       tagline: "Investissements stratégiques. Excellence industrielle.",
       description:
-        "R&B Holdings est un groupe de holdings mondial axé sur les participations stratégiques, les services industriels et les partenariats internationaux. Sa société holding suisse, immatriculée à Burgdorf sous le nom R&B Rajh Holding AG, constitue la base des activités européennes du groupe.",
+        "R&B Holdings est un groupe de holdings mondial basé en Suisse qui se développe désormais à l'international. Sa société holding suisse, R&B Rajh Holding AG à Burgdorf, constitue la base du groupe, axé sur les participations stratégiques, les services industriels et les partenariats internationaux.",
       cta: "Découvrir le portefeuille",
       cta2: "Nous contacter",
       founded: "Fondée",
@@ -750,7 +750,7 @@ export const translations = {
     hero: {
       tagline: "استثمارات استراتيجية. تميز صناعي.",
       description:
-        "R&B Holdings مجموعة قابضة عالمية تركز على المشاركات الاستراتيجية والخدمات الصناعية والشراكات الدولية. تمثل شركتها القابضة السويسرية، المسجلة في بورغدورف باسم R&B Rajh Holding AG، ركيزة العمليات الأوروبية للمجموعة.",
+        "R&B Holdings مجموعة قابضة عالمية مقرها سويسرا وتتوسع الآن دوليًا. تمثل شركتها القابضة السويسرية، R&B Rajh Holding AG في بورغدورف، ركيزة المجموعة، وتركز على المشاركات الاستراتيجية والخدمات الصناعية والشراكات الدولية.",
       cta: "استكشف المحفظة",
       cta2: "تواصل معنا",
       founded: "تأسست عام",
