@@ -17,12 +17,12 @@ export const regionLabels: Record<
   Locale,
   { switzerland: string; srilanka: string; worldwide: string }
 > = {
-  en: { switzerland: "Switzerland · R&B Rajh Holding AG", srilanka: "R&B Holdings · Sri Lanka", worldwide: "Worldwide" },
-  de: { switzerland: "Schweiz · R&B Rajh Holding AG", srilanka: "R&B Holdings · Sri Lanka", worldwide: "Weltweit" },
-  ta: { switzerland: "சுவிட்சர்லாந்து · R&B Rajh Holding AG", srilanka: "R&B Holdings · இலங்கை", worldwide: "உலகளாவிய" },
-  si: { switzerland: "ස්විට්සර්ලන්තය · R&B Rajh Holding AG", srilanka: "R&B Holdings · ශ්‍රී ලංකාව", worldwide: "ලොව පුරා" },
-  fr: { switzerland: "Suisse · R&B Rajh Holding AG", srilanka: "R&B Holdings · Sri Lanka", worldwide: "Mondial" },
-  ar: { switzerland: "سويسرا · R&B Rajh Holding AG", srilanka: "R&B Holdings · سريلانكا", worldwide: "عالمي" },
+  en: { switzerland: "Switzerland · R&B Rajh Holding AG", srilanka: "Sri Lanka · R&B Holding (coming soon)", worldwide: "Worldwide" },
+  de: { switzerland: "Schweiz · R&B Rajh Holding AG", srilanka: "Sri Lanka · R&B Holding (in Kürze)", worldwide: "Weltweit" },
+  ta: { switzerland: "சுவிட்சர்லாந்து · R&B Rajh Holding AG", srilanka: "இலங்கை · R&B Holding (விரைவில்)", worldwide: "உலகளாவிய" },
+  si: { switzerland: "ස්විට්සර්ලන්තය · R&B Rajh Holding AG", srilanka: "ශ්‍රී ලංකාව · R&B Holding (ළඟදීම)", worldwide: "ලොව පුරා" },
+  fr: { switzerland: "Suisse · R&B Rajh Holding AG", srilanka: "Sri Lanka · R&B Holding (bientôt)", worldwide: "Mondial" },
+  ar: { switzerland: "سويسرا · R&B Rajh Holding AG", srilanka: "سريلانكا · R&B Holding (قريبًا)", worldwide: "عالمي" },
 };
 
 export const translations = {
