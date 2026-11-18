@@ -14,7 +14,6 @@ export default function Footer({ locale }: FooterProps) {
   const navLinks = [
     { label: t.nav.home, href: "#home" },
     { label: t.nav.portfolio, href: "#portfolio" },
-    { label: t.nav.partners, href: "#partners" },
     { label: t.nav.about, href: "#about" },
     { label: t.nav.contact, href: "#contact" },
   ];
@@ -25,6 +24,7 @@ export default function Footer({ locale }: FooterProps) {
     "R&B Company GmbH",
     "R&B Guest House pvt. Ltd.",
     "R&B Organic Farming pvt. Ltd.",
+    "HABB Global",
   ];
 
   const scrollToTop = () => {
@@ -109,6 +109,8 @@ export default function Footer({ locale }: FooterProps) {
             <div className="space-y-3 text-sm text-white/50">
               <p>Buchmattstrasse 46</p>
               <p>3400 Burgdorf, Schweiz</p>
+              <p className="pt-2">215 Adiyapatham Road</p>
+              <p>Thirunelvely, Jaffna, Sri Lanka</p>
               <p className="pt-1">
                 <a
                   href="mailto:info@rbrajhholding.ch"

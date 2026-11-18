@@ -24,7 +24,6 @@ export default function Navbar({ locale, onLocaleChange }: NavbarProps) {
   const navLinks = [
     { label: t.nav.home, href: "#home" },
     { label: t.nav.portfolio, href: "#portfolio" },
-    { label: t.nav.partners, href: "#partners" },
     { label: t.nav.about, href: "#about" },
     { label: t.nav.contact, href: "#contact" },
   ];

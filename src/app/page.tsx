@@ -5,7 +5,6 @@ import { Locale } from "@/lib/i18n";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
 import Portfolio from "@/components/Portfolio";
-import Partners from "@/components/Partners";
 import Team from "@/components/Team";
 import About from "@/components/About";
 import Contact from "@/components/Contact";
@@ -19,7 +18,6 @@ export default function Home() {
       <Navbar locale={locale} onLocaleChange={setLocale} />
       <Hero locale={locale} />
       <Portfolio locale={locale} />
-      <Partners locale={locale} />
       <Team locale={locale} />
       <About locale={locale} />
       <Contact locale={locale} />

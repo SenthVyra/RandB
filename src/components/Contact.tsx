@@ -84,6 +84,11 @@ export default function Contact({ locale }: ContactProps) {
       value: "Buchmattstrasse 46, 3400 Burgdorf, Switzerland",
     },
     {
+      icon: MapPin,
+      label: locale === "de" ? "Adresse Sri Lanka" : "Address Sri Lanka",
+      value: "215 Adiyapatham Road, Thirunelvely, Jaffna, Northern Province 40000, Sri Lanka",
+    },
+    {
       icon: Mail,
       label: t.contact.email,
       value: "info@rbrajhholding.ch",

@@ -7,7 +7,6 @@ export const translations = {
     nav: {
       home: "Home",
       portfolio: "Portfolio",
-      partners: "Partner",
       about: "Über uns",
       contact: "Kontakt",
     },
@@ -80,28 +79,15 @@ export const translations = {
           tags: ["Bio-Farming", "Jaffna", "Nachhaltigkeit"],
           website: "#",
         },
-      },
-    },
-    partners: {
-      title: "Unsere Partner",
-      subtitle: "Strategische Partnerschaften, die Wert schaffen.",
-      doubleA: {
-        name: "DoubleA Solutions GmbH",
-        description:
-          "Spezialist für Photovoltaik-Systeme und nachhaltige Energielösungen. Bietet Planung, Installation und umfassende Solarlösungen für private und gewerbliche Projekte in der Schweiz.",
-        website: "https://doubleasolutions.ch",
-      },
-      habb: {
-        name: "HABB Switzerland",
-        description:
-          "IT-Unternehmen mit Fokus auf KI-Automatisierung und Softwareentwicklung. Entwickelt intelligente digitale Lösungen zur Prozessautomatisierung und zur effizienten Digitalisierung von Unternehmen.",
-        website: "https://habb.ch",
-      },
-      habbGlobal: {
-        name: "HABB Global",
-        description:
-          "Weltweiter Digital-Engineering-Partner für massgeschneiderte Softwareentwicklung. Liefert sichere und skalierbare Web-, Mobile-, Cloud- und KI-Lösungen, ergänzt durch digitales Marketing (HABB DIGI), KI-Automatisierung (HABB AI) und Zugangskontrollsysteme (HABBGate) für Kunden auf mehreren Kontinenten.",
-        website: "https://habbglobal.com",
+        habbGlobal: {
+          name: "HABB Global",
+          location: "Weltweit",
+          sector: "Digital Engineering",
+          description:
+            "Weltweiter Digital-Engineering-Partner für massgeschneiderte Softwareentwicklung. Liefert sichere und skalierbare Web-, Mobile-, Cloud- und KI-Lösungen, ergänzt durch digitales Marketing (HABB DIGI), KI-Automatisierung (HABB AI) und Zugangskontrollsysteme (HABBGate) für Kunden auf mehreren Kontinenten.",
+          tags: ["Softwareentwicklung", "KI-Automatisierung", "Digital Engineering"],
+          website: "https://habbglobal.com",
+        },
       },
     },
     team: {
@@ -144,7 +130,6 @@ export const translations = {
       rights: "Alle Rechte vorbehalten.",
       tagline: "Strategische Investitionen. Industrielle Exzellenz.",
       portfolio: "Portfolio",
-      partners: "Partner",
       about: "Über uns",
       contact: "Kontakt",
     },
@@ -153,7 +138,6 @@ export const translations = {
     nav: {
       home: "Home",
       portfolio: "Portfolio",
-      partners: "Partners",
       about: "About",
       contact: "Contact",
     },
@@ -230,28 +214,15 @@ export const translations = {
           tags: ["Organic Farming", "Jaffna", "Sustainability"],
           website: "#",
         },
-      },
-    },
-    partners: {
-      title: "Our Partners",
-      subtitle: "Strategic partnerships that create value.",
-      doubleA: {
-        name: "DoubleA Solutions GmbH",
-        description:
-          "Specialist in photovoltaic systems and sustainable solar solutions. Provides planning, installation, and complete solar energy systems for residential and commercial projects across Switzerland.",
-        website: "https://doubleasolutions.ch",
-      },
-      habb: {
-        name: "HABB Switzerland",
-        description:
-          "IT company specializing in AI automation and software development. Builds intelligent digital solutions to automate business processes and drive efficient digital transformation.",
-        website: "https://habb.ch/en",
-      },
-      habbGlobal: {
-        name: "HABB Global",
-        description:
-          "Worldwide digital engineering partner for custom software development. Delivers secure and scalable web, mobile, cloud, and AI solutions, complemented by digital marketing (HABB DIGI), AI automation (HABB AI), and access control systems (HABBGate) for clients across multiple continents.",
-        website: "https://habbglobal.com",
+        habbGlobal: {
+          name: "HABB Global",
+          location: "Worldwide",
+          sector: "Digital Engineering",
+          description:
+            "Worldwide digital engineering partner for custom software development. Delivers secure and scalable web, mobile, cloud, and AI solutions, complemented by digital marketing (HABB DIGI), AI automation (HABB AI), and access control systems (HABBGate) for clients across multiple continents.",
+          tags: ["Software Development", "AI Automation", "Digital Engineering"],
+          website: "https://habbglobal.com",
+        },
       },
     },
     team: {
@@ -294,7 +265,6 @@ export const translations = {
       rights: "All rights reserved.",
       tagline: "Strategic Investments. Industrial Excellence.",
       portfolio: "Portfolio",
-      partners: "Partners",
       about: "About",
       contact: "Contact",
     },

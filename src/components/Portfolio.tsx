@@ -35,6 +35,11 @@ const companyMeta = [
     logo: "/logos/RAndB_Organic_Farmin.png",
     flag: "🇱🇰",
   },
+  {
+    key: "habbGlobal" as const,
+    logo: "/logos/HABB Global Logo.png",
+    flag: "🌐",
+  },
 ];
 
 export default function Portfolio({ locale }: PortfolioProps) {
