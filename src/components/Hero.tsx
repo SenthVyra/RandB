@@ -59,7 +59,7 @@ export default function Hero({ locale }: HeroProps) {
                 className="text-[2.25rem] sm:text-[3.5rem] lg:text-[4rem] font-extrabold tracking-tight leading-[1.08] mb-6 break-words"
                 style={{ fontFamily: "Outfit, sans-serif" }}
               >
-                <span className="text-[var(--navy)] break-words">R&B Rajh</span>
+                <span className="text-[var(--navy)] break-words">R&B Holdings</span>
                 <br />
                 <span className="gradient-heading break-words">Holding AG</span>
               </h1>

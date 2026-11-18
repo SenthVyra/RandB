@@ -58,7 +58,7 @@ export default function About({ locale }: AboutProps) {
           <div className="text-center max-w-2xl mx-auto mb-16">
             <span className="section-badge mb-4 inline-flex">
               <Building2 size={12} />
-              {locale === "de" ? "Über uns" : "About Us"}
+              {t.ui.aboutUs}
             </span>
             <h2
               className="text-3xl sm:text-4xl lg:text-[2.75rem] font-extrabold text-[var(--text-heading)] mb-5 tracking-tight"

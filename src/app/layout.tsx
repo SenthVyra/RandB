@@ -3,29 +3,29 @@ import "./globals.css";
 import Script from "next/script";
 
 export const metadata: Metadata = {
-  title:
-    "R&B Rajh Holding AG â€“ Strategische Investitionen & Industrielle Exzellenz",
+  title: "R&B Holdings – Strategic Investments & Industrial Excellence",
   description:
-    "R&B Rajh Holding AG ist eine Schweizer Holdinggesellschaft mit Sitz in Burgdorf. Mit strategischen Beteiligungen in Industrie, OberflÃ¤chenbehandlung, Gastgewerbe und Landwirtschaft.",
+    "R&B Holdings is a worldwide holding group with strategic participations in industry, surface treatment, hospitality, agriculture and digital engineering. Its Swiss holding company is registered in Burgdorf as R&B Rajh Holding AG.",
   keywords: [
+    "R&B Holdings",
     "R&B Rajh Holding AG",
     "Burgdorf",
-    "Schweizer Holding",
+    "Swiss holding company",
     "Tschannen Spritzwerk",
     "Leuta Korrosionsschutz",
-    "Swiss holding company",
+    "HABB Global",
   ],
-  metadataBase: new URL("https://rbrajhholding.ch"),
+  metadataBase: new URL("https://randbholdings.com"),
   icons: {
     icon: "/logos/RB_Holdings_Logo.webp",
     shortcut: "/logos/RB_Holdings_Logo.webp",
     apple: "/logos/RB_Holdings_Logo.webp",
   },
   openGraph: {
-    title: "R&B Rajh Holding AG",
-    description: "Strategische Investitionen. Industrielle Exzellenz.",
+    title: "R&B Holdings",
+    description: "Strategic Investments. Industrial Excellence.",
     type: "website",
-    url: "https://rbrajhholding.ch",
+    url: "https://randbholdings.com",
   },
 };
 
@@ -35,7 +35,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="de">
+    <html lang="en" dir="ltr">
       <head>
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link

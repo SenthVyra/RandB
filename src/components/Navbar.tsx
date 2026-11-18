@@ -1,7 +1,7 @@
 "use client";
 
 import { useState, useEffect } from "react";
-import { translations, Locale } from "@/lib/i18n";
+import { translations, Locale, locales } from "@/lib/i18n";
 import { Menu, X, Globe } from "lucide-react";
 import Logo from "./Logo";
 
@@ -54,7 +54,7 @@ export default function Navbar({ locale, onLocaleChange }: NavbarProps) {
               className="font-bold text-[15px] text-[var(--navy)] leading-tight tracking-tight"
               style={{ fontFamily: "Outfit, sans-serif" }}
             >
-              R&B Rajh Holding AG
+              R&B Holdings
             </span>
             <span className="text-[10px] font-medium text-[var(--text-muted)] tracking-[0.08em] uppercase">
               Burgdorf, Switzerland
@@ -81,7 +81,7 @@ export default function Navbar({ locale, onLocaleChange }: NavbarProps) {
           {/* Language */}
           <div className="flex items-center gap-0.5 border border-[var(--gray-200)] rounded-full p-1 bg-white">
             <Globe size={12} className="text-[var(--text-muted)] mx-1.5" />
-            {(["de", "en"] as Locale[]).map((lang) => (
+            {locales.map((lang) => (
               <button
                 key={lang}
                 onClick={() => onLocaleChange(lang)}

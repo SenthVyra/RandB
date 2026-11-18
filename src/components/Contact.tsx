@@ -65,12 +65,12 @@ export default function Contact({ locale }: ContactProps) {
         setFormData({ name: "", email: "", message: "" });
         setTimeout(() => setSubmitted(false), 5000);
       } else {
-        setError(locale === "de" ? "Fehler beim Senden" : "Failed to send");
+        setError(t.ui.sendError);
       }
     } catch (err) {
       console.error("Contact form error:", err);
       setError(
-        locale === "de" ? "Ein Fehler ist aufgetreten" : "An error occurred",
+        t.ui.genericError,
       );
     } finally {
       setLoading(false);
@@ -85,7 +85,7 @@ export default function Contact({ locale }: ContactProps) {
     },
     {
       icon: MapPin,
-      label: locale === "de" ? "Adresse Sri Lanka" : "Address Sri Lanka",
+      label: t.ui.addressSriLanka,
       value: "215 Adiyapatham Road, Thirunelvely, Jaffna, Northern Province 40000, Sri Lanka",
     },
     {
@@ -102,7 +102,7 @@ export default function Contact({ locale }: ContactProps) {
     },
     {
       icon: Building2,
-      label: locale === "de" ? "Handelsregister" : "Commercial Register",
+      label: t.ui.commercialRegister,
       value: "CHE-216.745.582",
     },
   ];
@@ -185,12 +185,10 @@ export default function Contact({ locale }: ContactProps) {
                     className="text-lg font-bold text-[var(--text-heading)] mb-2"
                     style={{ fontFamily: "Outfit, sans-serif" }}
                   >
-                    {locale === "de" ? "Nachricht gesendet!" : "Message Sent!"}
+                    {t.ui.sentTitle}
                   </h3>
                   <p className="text-sm text-[var(--text-muted)]">
-                    {locale === "de"
-                      ? "Vielen Dank! Wir werden uns in Kürze bei Ihnen melden."
-                      : "Thank you! We will get back to you shortly."}
+                    {t.ui.sentText}
                   </p>
                 </div>
               ) : (
@@ -260,9 +258,7 @@ export default function Contact({ locale }: ContactProps) {
                       <Send size={16} />
                     )}
                     {loading
-                      ? locale === "de"
-                        ? "Wird gesendet..."
-                        : "Sending..."
+                      ? t.ui.sending
                       : t.contact.send}
                   </button>
                 </form>
