@@ -57,7 +57,7 @@ export default function Navbar({ locale, onLocaleChange }: NavbarProps) {
               R&B Holdings
             </span>
             <span className="text-[10px] font-medium text-[var(--text-muted)] tracking-[0.08em] uppercase">
-              Burgdorf, Switzerland
+              Worldwide
             </span>
           </div>
         </button>

@@ -53,7 +53,7 @@ export default function Footer({ locale }: FooterProps) {
                   R&B Holdings
                 </div>
                 <div className="text-[10px] text-white/40 tracking-wider uppercase">
-                  Burgdorf, Switzerland
+                  Worldwide
                 </div>
               </div>
             </div>
