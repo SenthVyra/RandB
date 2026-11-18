@@ -15,7 +15,7 @@ export default function Logo({ size = 40, className = "" }: LogoProps) {
     >
       <Image
         src="/logos/RB_Holdings_Logo.webp"
-        alt="R&B Holdings Logo"
+        alt="R&B Rajh Holding AG Logo"
         fill
         className="object-contain"
         priority

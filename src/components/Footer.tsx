@@ -40,7 +40,7 @@ export default function Footer({ locale }: FooterProps) {
             <div className="flex items-center gap-3 mb-5">
               <Image
                 src="/logos/RB_Holdings_Logo.webp"
-                alt="R&B Holdings"
+                alt="R&B Rajh Holding AG"
                 width={36}
                 height={36}
                 className="object-contain"
@@ -50,7 +50,7 @@ export default function Footer({ locale }: FooterProps) {
                   className="font-bold text-white text-sm"
                   style={{ fontFamily: "Outfit, sans-serif" }}
                 >
-                  R&B Holdings
+                  R&B Rajh Holding AG
                 </div>
                 <div className="text-[10px] text-white/40 tracking-wider uppercase">
                   Worldwide
@@ -160,7 +160,7 @@ export default function Footer({ locale }: FooterProps) {
         {/* Bottom bar */}
         <div className="border-t border-white/10 pt-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xs text-white/30">
-            &copy; {new Date().getFullYear()} R&B Holdings. {t.footer.registered}{" "}
+            &copy; {new Date().getFullYear()} R&B Rajh Holding AG. {t.footer.registered}{" "}
             {t.footer.rights}
           </p>
           <button
