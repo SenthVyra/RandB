@@ -37,7 +37,7 @@ export default function Contact({ locale }: ContactProps) {
       // Submit to both FormSubmit and MongoDB API in parallel
       const [formSubmitResponse, apiResponse] = await Promise.all([
         // FormSubmit for email notification
-        fetch("https://formsubmit.co/ajax/info@rbrajhholding.ch", {
+        fetch("https://formsubmit.co/ajax/info@randbholdings.com", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",
