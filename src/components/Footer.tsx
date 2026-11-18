@@ -66,6 +66,32 @@ export default function Footer({ locale }: FooterProps) {
                 Est. 2019
               </span>
             </div>
+            <div className="flex items-center gap-4 mt-6 text-xs font-semibold tracking-wider uppercase text-white/50">
+              <a
+                href="https://facebook.com/RandBHoldings"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-white transition-colors"
+              >
+                Facebook
+              </a>
+              <a
+                href="https://instagram.com/RandBHoldings"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-white transition-colors"
+              >
+                Instagram
+              </a>
+              <a
+                href="https://linkedin.com/company/RandBHoldings"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="hover:text-white transition-colors"
+              >
+                LinkedIn
+              </a>
+            </div>
           </div>
 
           {/* Navigation */}
